@@ -1,0 +1,5 @@
+class ChessGame {
+    constructor(position){
+        
+    }
+}
